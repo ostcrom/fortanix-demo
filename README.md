@@ -15,6 +15,7 @@ In Fortanix DMS you need to create:
 cp config.ini.example config.ini
 ```
 Use the text editor of your choice to fill in the UUIDs for the keys you created and the API key.
+
 2. Build the docker image:
 ```bash
 make build
