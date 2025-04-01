@@ -1,0 +1,7 @@
+[KEYCONFIG]
+signing_key_uuid = 
+encryption_key_uuid = 
+
+[APICONFIG]
+api_host = https://amer.smartkey.io
+app_api_key = 
